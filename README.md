@@ -1,6 +1,5 @@
 # **General Circuit Solver with Real-Time Visualization**  
 
----
 ### **Overview**  
 This project is a **Graphical User Interface (GUI)-based circuit solver** that allows users to design and analyze electrical circuits in real time. It provides an **interactive environment** for adding circuit components, visualizing the circuit structure, and solving for node voltages using **Laplace Transform-based Nodal Analysis**.  
 
